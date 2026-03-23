@@ -21,9 +21,6 @@ Stack Overflow, developer documentation, coding tutorials
 ### Children & Family
 Age-appropriate educational content for kids
 - Wikipedia for Schools
-- Wikibooks Children's Bookshelf
-- Khan Academy Kids (via Kolibri - separate system)
-- Storybooks, fairy tales
 
 ### Trades & Vocational
 Practical skills for building, fixing, and maintaining
